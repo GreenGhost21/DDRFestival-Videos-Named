@@ -15,7 +15,13 @@ BG Videos (Festival Versions)
 >- fusion2.avi: ``` fusion1.mkv fusion2.mkv fusion2.mkv fusion3.mkv ```
 >- Yes, there is supposed to be 2 `fusion2.mkv` in there.
 
+- beware's `smash1` is split into two videos, titled `smash1.mkv` and `smash2.mkv`.
+
 - `ninja3.mkv` is a trimmed `ninja2.mkv`
+
+- beware's `ninja1` is actually composed of several different "ninja" videos. The combination of videos that equal beware's `ninja1` are:
+>- ```ninja1c.mkv ninja1b.mkv smash1.mkv ninja1a.mkv```
+
 
 
 
