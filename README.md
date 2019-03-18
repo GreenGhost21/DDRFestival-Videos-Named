@@ -27,20 +27,20 @@ BG Videos (Festival Versions)
 
 Credit where credit is due. This could not be done without the work of:
 
-Avisynth Devs: https://avisynth.org.ru/docs/english/license.htm
+Avisynth: https://avisynth.org.ru/docs/english/license.htm
 
-FFmpegSource Devs: https://github.com/FFMS/ffms2
+FFmpegSource: https://github.com/FFMS/ffms2
 
-AviSynth+ Devs:
+AviSynth+:
 https://github.com/AviSynth/AviSynthPlus
 
-Haali Media Splitter Devs:
+Haali Media Splitter:
 https://www.videohelp.com/software/Haali-Media-Splitter
 
-ffdshow Devs: https://sourceforge.net/projects/ffdshow/
+ffdshow: https://sourceforge.net/projects/ffdshow/
 
-RipBot264 Devs:
+RipBot264:
 https://www.videohelp.com/software/RipBot264
 
-AviSynth Batch Scripter Devs:
+AviSynth Batch Scripter:
 https://www.videohelp.com/software/AviSynth-Batch-Scripter
