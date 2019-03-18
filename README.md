@@ -23,12 +23,24 @@ BG Videos (Festival Versions)
 >- ```ninja1c.mkv ninja1b.mkv smash1.mkv ninja1a.mkv```
 
 
+# Credits
 
+Credit where credit is due. This could not be done without the work of:
 
-Credit where credit is due:
+Avisynth Devs: https://avisynth.org.ru/docs/english/license.htm
 
-The Handbrake Team: [Handbrake](https://handbrake.fr/)
+FFmpegSource Devs: https://github.com/FFMS/ffms2
 
-![alt text](http://www.virtualdub.org/pics/email.png "He/she masked it to thwart email harvesters, so I'm following suit."): [VirtualDub](http://www.virtualdub.org/index.html)
+AviSynth+ Devs:
+https://github.com/AviSynth/AviSynthPlus
 
-[Mikael Finstad, AKA mifi on GitHub](https://github.com/mifi): [lossless-cut](https://github.com/mifi/lossless-cut)
+Haali Media Splitter Devs:
+https://www.videohelp.com/software/Haali-Media-Splitter
+
+ffdshow Devs: https://sourceforge.net/projects/ffdshow/
+
+RipBot264 Devs:
+https://www.videohelp.com/software/RipBot264
+
+AviSynth Batch Scripter Devs:
+https://www.videohelp.com/software/AviSynth-Batch-Scripter
