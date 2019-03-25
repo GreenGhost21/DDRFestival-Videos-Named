@@ -47,3 +47,5 @@ https://www.videohelp.com/software/RipBot264
 
 AviSynth Batch Scripter:
 https://www.videohelp.com/software/AviSynth-Batch-Scripter
+
+#### And of course, the person who ripped these videos in the first place!
